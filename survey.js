@@ -22,7 +22,7 @@ const answers = {
   a2: 'Linkin Park',
   a3: 'dinner',
   a4: 'burgers',
-  a5: 'Tennis Table',
+  a5: 'Table Tennis',
   a6: 'Remembring numbers!'
 };
 
